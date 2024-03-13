@@ -31,8 +31,7 @@ To run our gradio demo, you need to get the checkpoints from [huggingface](https
 python -m ./ocr_mllm_gradio/my_gradio_web_server.py --host 0.0.0.0 --port 10000
 ```
 
-https://github.com/SuXuping/OCR_MLLM_TOY/assets/59433977/df94e50b-6886-490b-aec0-b8a66bb6694e.mp4
-https://github.com/SuXuping/OCR_MLLM_TOY/assets/59433977/a4d0ae8e-8bd9-43b7-ab8d-59c67e015b89.mp4
+https://private-user-images.githubusercontent.com/59433977/312287320-df94e50b-6886-490b-aec0-b8a66bb6694e.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAyOTY3ODAsIm5iZiI6MTcxMDI5NjQ4MCwicGF0aCI6Ii81OTQzMzk3Ny8zMTIyODczMjAtZGY5NGU1MGItNjg4Ni00OTBiLWFlYzAtYjhhNjZiYjY2OTRlLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzEzVDAyMjEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmN2NmNmU4NDFhZWJlZjU5ODA0Y2IyZjk2NTM3NGJjYjQxMjQ3ODMwMjVkYmJjNTk3MjJmMzE1MzMzMzljYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JbTewa24725b7FON1Oe4fZSyM2nCgv_FirdbPHlZFAg
 
 **For clear demos,please refer to [demo1](assets/ticketsx2.mp4) and [demo2](assets/commonx2.mp4)**
 <p align="center">
